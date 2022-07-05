@@ -1,8 +1,6 @@
 from airflow.operators.dummy_operator import DummyOperator
 from airflow.operators.sql import (
     SQLCheckOperator,
-    SQLValueCheckOperator,
-    SQLIntervalCheckOperator,
     SQLThresholdCheckOperator
 )
 from airflow import DAG
