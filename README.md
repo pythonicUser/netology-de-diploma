@@ -2,7 +2,7 @@
 
 ### 1. Исследование предоставленного [датасета](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?select=supermarket_sales+-+Sheet1.csv)
 
-[Первый анализ датасета](/dataset_research/research_notebook.ipynb) показал что:
+[Первичный анализ датасета](/dataset_research/research_notebook.ipynb) показал что:
 
  - атрибуты **date** и **time** являются строками, хотя по факту это велечины времени
 
